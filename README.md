@@ -34,3 +34,5 @@ Add a screenshot or GIF here to showcase the UI in action.
 License
 
 This project is open-source and available under the MIT License.
+project link: https://github.com/Barakath12/Chat-application-UI
+deployment link: http://127.0.0.1:5500/chat_application.HTML
